@@ -1,0 +1,13 @@
+{
+    "name": "scroller",
+    "repo": "zynga/scroller",
+    "description": "Accelerated panning and zooming for HTML and Canvas",
+    "version": "0.0.1",
+    "keywords": ["scroller", "mobile", "animation"],
+    "main": "./index.js",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pbakaus/scroller"
+    }
+}
