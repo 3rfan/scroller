@@ -1,13 +1,45 @@
 {
+  "_from": "git+https://github.com/3rfan/scroller.git",
+  "_id": "scroller@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-9JBZ4t4l8n8u5ssgnr38699Jmf8=",
+  "_location": "/scroller",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "scroller@git+https://github.com/3rfan/scroller.git",
     "name": "scroller",
-    "repo": "zynga/scroller",
-    "description": "Accelerated panning and zooming for HTML and Canvas",
-    "version": "0.0.1",
-    "keywords": ["scroller", "mobile", "animation"],
-    "main": "./index.js",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/3rfan/scroller"
-    }
+    "escapedName": "scroller",
+    "rawSpec": "git+https://github.com/3rfan/scroller.git",
+    "saveSpec": "git+https://github.com/3rfan/scroller.git",
+    "fetchSpec": "https://github.com/3rfan/scroller.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/3rfan/scroller.git#855cf05882964df34d6e2419ecd98f75e55cb2f8",
+  "_spec": "scroller@git+https://github.com/3rfan/scroller.git",
+  "_where": "/Users/erfan/Projects/jemc/jemc-web-frontend",
+  "bugs": {
+    "url": "https://github.com/3rfan/scroller/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Accelerated panning and zooming for HTML and Canvas",
+  "homepage": "https://github.com/3rfan/scroller#readme",
+  "keywords": [
+    "scroller",
+    "mobile",
+    "animation"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "scroller",
+  "repo": "zynga/scroller",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3rfan/scroller.git"
+  },
+  "version": "0.0.1"
 }

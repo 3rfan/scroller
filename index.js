@@ -1,5 +1,3 @@
-
-require('./src/Animate');
-require('./src/Scroller');
+const Scroller = require('./src/Scroller');
 
 module.exports = Scroller;
